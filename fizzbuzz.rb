@@ -8,4 +8,5 @@ def fizzbuzz(int)
     puts "FizzBuzz"
   else int !(% 3 == 0 || 5 == 0)
     puts "nil"
+  end 
 end
